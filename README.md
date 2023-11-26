@@ -24,4 +24,4 @@ A big shoutout to the YouTube channel "Pemograman Zaman Now" for their invaluabl
 
 Next up, I'll be diving into Java Collections and Lambda.
 
-Thank you for joining me on this Java OOP journey! 🌟
+Thank you for joining me on this Java Generic journey! 🌟
